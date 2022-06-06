@@ -1,1 +1,3 @@
-main
+public class printHello(){
+  System.out.print("Hello World");
+}
